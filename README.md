@@ -21,7 +21,7 @@ npm install
 ### 3. Run the development server
 
 ```
-npm run dev
+npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
